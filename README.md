@@ -20,4 +20,5 @@ In practice, combining these elements across their respective dimensions enables
 
 ![Matrix](TSRCT_inquiry.png)
 
+---
 Learn more here: [TSRCT White Paper](https://github.com/alexwalterhiggins/TSRCT/blob/main/TSRCT%20White%20Paper.md)
