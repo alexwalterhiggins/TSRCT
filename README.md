@@ -19,3 +19,5 @@ Creating questions based on unique groupings of the individual elements from the
 In practice, combining these elements across their respective dimensions enables devlopment of bespoke lines of inquiry based on a specific AI use case (or collection of capabilities). Utilizing this approach, the figure below illustrates an example line of inqury leveraging TSRCT dimensions/elements to address the organizational relevance of AI technologies (i.e., "why does it matter?"):
 
 ![Matrix](TSRCT_inquiry.png)
+
+Learn more here: [TSRCT White Paper](https://github.com/alexwalterhiggins/TSRCT/blob/main/TSRCT%20White%20Paper.md)
