@@ -64,11 +64,11 @@ The Conceptual dimension defines the level of abstraction when considering the i
 
 - **Content:** Pertains to the specific knowledge, data, and information that drive AI development and utilization. Geneartes specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and contexts of various sectors. *Involves abductive thinking*.
 
-### Implementation Approaches
+### Implementation Approaches (TO-DO)
 
 Effective implementation of the TSRCT framework involves customization to align with specific organizational needs. This strategy emphasizes the importance of cross-functional teams to drive AI initiatives, continuous learning through feedback loops, and establishing clear metrics for monitoring and evaluation. By iteratively refining AI strategies, organizations can realize greater value from AI investments.
 
-### Case Studies: Example Lines of Iniqury
+### Case Studies: Example Lines of Iniqury (TO-DO)
 
 To illustrate the framework's impact, this section presents case studies of hypothetical organizations interested in applying TSRCT elements. These examples provide practical insights into overcoming common AI adoption challenges and highlight measurable outcomes achieved through strategic integration.
 
