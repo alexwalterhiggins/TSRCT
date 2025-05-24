@@ -74,17 +74,17 @@ To illustrate the framework's impact, this section presents case studies of hypo
 
 ### Conclusion
 
-In conclusion, the TSRCT framework offers a pathway for organizations to navigate the complex landscape of AI adoption. By addressing interconnections between context, resource, relations, and concepts, the framework facilitates comprehensive organizational transformation. As the AI landscape continues to evolve, the TSRCT framework provides a robust foundation for innovation and competitive advantage.
+To summarize, the TSRCT framework offers a pathway for organizations to navigate the complex landscape of AI adoption. By addressing interconnections between context, resource, relations, and concepts, the framework facilitates comprehensive organizational transformation. As the AI landscape continues to evolve, the TSRCT framework provides a robust foundation for innovation and competitive advantage.
 
-### References
+### References (TO-DO)
 
 All sources, research, and previous works referenced in the white paper are listed here, ensuring thorough documentation of the framework's conceptual and empirical foundations.
 
-### Appendices
+### Appendices (TO-DO)
 
 This section includes additional data, visual aids, and detailed explanations to support the content discussed in the main sections. A glossary of key terms is also provided to clarify technical jargon and concepts.
 
-### Contact Information
+### Contact Information (TO-DO)
 
 For further inquiries or discussions regarding the TSRCT framework, contact details of the authors and contributing organizations are provided here.
 
