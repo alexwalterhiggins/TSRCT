@@ -8,14 +8,14 @@ The Theoretical System Reasoning Conceptual Toolkit (TSRCT) is a comprehensive f
 
 The following diagram outlines the 4 'conceptually orthogonal' dimensions of the TSRCT framework (i.e., Contextual, Resource, Relational, Conceptual), illustrating a fractal hypercube based on the interconnections of those dimensions:
 
-![Diagram](TSRCT_diagram_v2.png)
+![Diagram](TSRCT_diagram.png)
 
 ## TSRCT Elements
 
 Creating questions based on unique groupings of the individual elements from the TSRCT framework allows users to explore the interplay between different aspects of organizational change and AI adoption. Below is an example matrix outlining the unique combinations across all elements:
 
-![Matrix](TSRCT_matrix_v1.png)
+![Matrix](TSRCT_matrix.png)
 
 Combining these elements across their respective dimensions enables devlopment of bespoke lines of inquiry based on the specific AI use case or collection of capabilities. For example, applying TSRCT dimensions/elements to address organizational relevance of AI technologies (i.e., "why does it matter?") could result in the following lines of inquiry:
 
-![Matrix](TSRCT_inquiry_v2.png)
+![Matrix](TSRCT_inquiry.png)
