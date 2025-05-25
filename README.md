@@ -10,17 +10,17 @@ By providing holistic context around resouce-informed relational dynamics at var
 
 The following diagram outlines the 4 'conceptually orthogonal' dimensions of the TSRCT framework (i.e., Contextual, Resource, Relational, Conceptual), illustrating a fractal hypercube based on the interconnections of those dimensions:
 
-![Diagram](TSRCT_diagram.png)
+![Diagram](media/TSRCT_diagram.png)
 
 ## TSRCT Elements
 
 Creating questions based on unique groupings of the individual elements from the TSRCT framework allows users to explore the interplay between different aspects of organizational change and AI adoption. Below is an example matrix outlining the unique combinations across all elements:
 
-![Matrix](TSRCT_matrix.png)
+![Matrix](media/TSRCT_matrix.png)
 
 In practice, combining these elements across their respective dimensions enables devlopment of bespoke lines of inquiry based on a specific AI use case (or collection of capabilities). The figure below illustrates this approach with an example line of inqury leveraging TSRCT dimensions/elements to address the organizational relevance of AI technologies (i.e., "why does it matter?"):
 
-![Matrix](TSRCT_inquiry_ex.png)
+![Matrix](media/TSRCT_inquiry_ex.png)
 
 Examples of resulting lines of inqury around AI adoption include:
 * Why does human captial matter on an individual basis when thinking deductively (i.e. algorithmically/programmatically)?
