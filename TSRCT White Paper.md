@@ -1,4 +1,4 @@
-![LOGO](TSRCT_logo.png "TSRCT Logo")
+![LOGO](media/TSRCT_logo.png "TSRCT Logo")
 
 # Theoretical Systematic Reasoning Conceptual Toolkit (TSRCT) 
 ## A Framework for AI Adoption
