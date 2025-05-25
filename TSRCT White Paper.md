@@ -10,11 +10,15 @@ This white paper introduces the Theoretical Systematic Reasoning Conceptual Tool
 
 ### Introduction
 
-The rapid advancement of artificial intelligence has transformed industries, offering unprecedented opportunities for innovation. However, integrating AI into existing organizational structures presents significant challenges, from technical hurdles to strategic misalignments. This white paper outlines the TSRCT framework, crafted to facilitate seamless AI integration. By exploring the context-specific requirements and dynamics of AI adoption, TSRCT serves as a vital tool for organizations looking to leverage AI's transformative potential while maintaining operational coherence and vision alignment.
+Rapid evolutions in artificial intelligence capabilites (e.g., classical deep learning to foundation and frontier models) have transformed industries, offering unprecedented opportunities for innovation. However, integrating AI into existing organizational structures presents significant challenges, from sociotechnical hurdles to strategic misalignments. This white paper outlines the TSRCT framework, developed to facilitate AI integration. By exploring the context-specific requirements and dynamics of AI adoption, TSRCT serves as a vital tool for organizations looking to leverage AI's transformative potential while maintaining operational coherence and vision alignment.
 
 ### TSRCT Framework Overview
 
 The TSRCT framework establishes a structured pathway for organizational change in the face of AI integration. It is constructed around four interdependent dimensions: Contextual, Resource, Relational, and Conceptual. Each dimension consists of specific elements that address strategic, operational, technical, human, procedural, systemic, inter-entity relations, and content-related aspects of AI incorporation. This holistic approach ensures that every facet of organizational transformation is considered, facilitating a comprehensive strategy for successful AI deployment.
+
+Each dimension is designed to be 'conceptually orthogonal' to address the unique, yet interconnected elements within. The framework is modular at its core, intended to guide consulting and inquiry (rather than a "one size fits all" solution for AI adoption). Illustrated below, the framework can be represented as a fractal hypercube (i.e. tesseract) with the dimensions forming the basis for this representation:
+
+![Diagram](media/TSRCT_diagram.png)
 
 ### 1. Contextual Dimension
 
@@ -68,9 +72,33 @@ The Conceptual dimension defines the level of abstraction when considering the i
 
 Effective implementation of the TSRCT framework involves customization to align with specific organizational needs. This strategy emphasizes the importance of cross-functional teams to drive AI initiatives, continuous learning through feedback loops, and establishing clear metrics for monitoring and evaluation. By iteratively refining AI strategies, organizations can realize greater value from AI investments.
 
-### Case Studies: Example Lines of Iniqury (TO-DO)
+The framework can be applied using varied approaches, for example:
+* Developing bespoke lines of inquiry using unique combinations of elements (illustrated later)
+* Investigating the interconnections within dimensions (e.g., Human-Process-Technology relationships within the Resource dimension)
+* Defining and addressing organizational outcomes around AI adoption at the appropriate level of detail and abstraction
 
-To illustrate the framework's impact, this section presents case studies of hypothetical organizations interested in applying TSRCT elements. These examples provide practical insights into overcoming common AI adoption challenges and highlight measurable outcomes achieved through strategic integration.
+TSRCT serves as a means (rather than singular end-state) to articulate organizational outcomes, approaches, and requirements for AI adoption. As such, the framework's dimensions/elements are designed to function as optional considerations to be reconsiled (or even ignored) as appropriate for a use case or capability. How an organization chooses to define and interpret the specific elements shapes TSRCT's implementation approaches.
+
+Shown below, the framework elements can be organized into a matrix to identify areas of interest to begin considering organizational goals for utilizing TSRCT:
+
+![Matrix](media/TSRCT_matrix.png)
+
+### Case Study: Example Lines of Iniqury (TO-DO)
+
+To illustrate the framework's impact, this section presents a case study in applying TSRCT elements. This example provide practical insights into overcoming common AI adoption challenges and highlight measurable outcomes achieved through strategic integration. The goal of this exercize is to develop bespoke lines of inquiry from unique groupings of framework elements (when considering relevance of AI to organizatonal change).
+
+In the absract sense, the dimensions and elements are grouped and defined by the illustration below. This provides a formula for generating lines of inquiry based on the specific status, objectives, and appropriate level of abstraction.
+
+![Inquiry](media/TSRCT_inquiry.png)
+
+For the purposes of the case study, we identify a line of inquiry with the objective of understanding AI relevance for an organization. Examining the status of framework resources under this objective allows for development of specific considerations in AI adoption and innovation.
+
+![Example](media/TSRCT_inquiry_ex.png)
+
+Utilizing the above definitions and flowchart yields the following example lines of inquiry:
+* Why does human captial matter on an individual basis when thinking deductively (i.e. algorithmically/programmatically)?
+* How do we analyze interconnected processes in an applied/inductive (i.e. probabalistic) capacity?
+* What are our technological decision points to enable abductive (i.e. heuristic) understanding around a capability?
 
 ### Conclusion
 
