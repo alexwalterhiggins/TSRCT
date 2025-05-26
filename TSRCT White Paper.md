@@ -54,7 +54,7 @@ The Relational dimension articulates dynamics of AI adoption at individual- and 
 
 **Relational Elements:**
 
-- **Entity:** Focuses on the individual units or components within the organization that interact with AI initiatives. Evaluates the roles and responsibilities of various stakeholders involved in AI adoption, examining how to transform these roles with AI capabilities. *Examines components the individual-level*.
+- **Entity:** Focuses on the individual units or components within the organization that interact with AI initiatives. Evaluates the roles and responsibilities of various stakeholders involved in AI adoption, examining how to transform these roles with AI capabilities. *Examines components at the individual-level*.
 
 - **Relation:** Explores the interactions and connections between entities to include teams, departments, or systems, in the context of AI adoption. Analyze how AI affects intra- and inter-organizational relationships, including collaboration, communication, and decision-making processes. *Examines connections between indiviuals and groups*.
 
