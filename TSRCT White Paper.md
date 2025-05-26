@@ -20,7 +20,11 @@ Each dimension is designed to be 'conceptually orthogonal' to address the unique
 
 ![Diagram](media/TSRCT_diagram.png)
 
-### 1. Contextual Dimension
+The 4 TSRCT dimensions contain 3 distinct elements, each designed to address a core consideration of the given dimension. Elements represent the most granular, distinct considerations of the framework. They are designed to be used individually, in tandem, or in the aggregate based on an organizations specific AI-related objectives (i.e., elements may be consolidated or ignored based on a user's needs). TSRCT's elements can be represented by:
+
+![Elements](media/TSRCT_elements.png)
+
+#### 1. Contextual Dimension
 
 The Contextual dimension frames the line of inquiry by specifying the domain of interest when addressing challenges around AI adoption and innovation. This dimension explores the strategic, operational, and technical questions organizations face during AI adoption, focusing on aligning AI initiatives with the broader organizational context.
 
@@ -32,31 +36,31 @@ The Contextual dimension frames the line of inquiry by specifying the domain of 
 
 - **Technical:** Considers the specific technologies and tools that are being adopted or considered for adoption. Outlines the technical requirements and competencies needed for AI integration. Address issues like data management, algorithm selection, and technology stack compatibility for a specific AI use case. *Answers what*.
 
-### 2. Resource Dimension
+#### 2. Resource Dimension
 
 The Resource dimension identifies the target objects and systems related to holistic AI innovation. This dimension emphasizes the human, procedural, and technological resources necessary for AI adoption.
 
 **Resource Elements:**
 
-- **Human:** Involves the workforce, including skills, roles, and the human elements involved in AI adoption. Assess the skill sets required for AI deployment, including hiring needs, training programs, and change management efforts to build a workforce capable of leveraging AI technologies.
+- **Human:** Involves the workforce, including skills, roles, and the human elements involved in AI adoption. Assess the skill sets required for AI deployment, including hiring needs, training programs, and change management efforts to build a workforce capable of leveraging AI technologies. *Addresses people*.
 
-- **Proccess:** Encompasses the procedures and workflows that are being transformed or enhanced through AI. Leverages methodologies and processes for AI project management, including agile practices, feedback loops, and iteration strategies that facilitate smooth AI integration.
+- **Proccess:** Encompasses the procedures and workflows that are being transformed or enhanced through AI. Leverages methodologies and processes for AI project management, including agile practices, feedback loops, and iteration strategies that facilitate smooth AI integration. *Addresses organizational processes*.
 
-- **System:** Refers to the technological infrastructure and systems that support AI implementation. Considers the organization’s broader system, including financial resources, IT infrastructure, and regulatory considerations. Identify investments required to support AI initiatives sustainably.
+- **System:** Refers to the technological infrastructure and systems that support AI implementation. Considers the organization’s broader system, including financial resources, IT infrastructure, and regulatory considerations. Identify investments required to support AI initiatives sustainably. *Addresses technological systems*.
 
-### 3. Relational Dimension
+#### 3. Relational Dimension
 
 The Relational dimension articulates dynamics of AI adoption at individual- and community-level, including their interconnections. This dimension involves analyzing these dynamics of in terms of entities, relationships, and groups within and outside the organization.
 
 **Relational Elements:**
 
-- **Entity:** Focuses on the individual units or components within the organization that interact with AI initiatives. Evaluates the roles and responsibilities of various stakeholders involved in AI adoption, examining how to transform these roles with AI capabilities.
+- **Entity:** Focuses on the individual units or components within the organization that interact with AI initiatives. Evaluates the roles and responsibilities of various stakeholders involved in AI adoption, examining how to transform these roles with AI capabilities. *Examines components the individual-level*.
 
-- **Relationship:** Explores the interactions and connections between different entities, such as teams, departments, or systems, in the context of AI adoption. Analyze how AI affects intra- and inter-organizational relationships, including collaboration, communication, and decision-making processes.
+- **Relation:** Explores the interactions and connections between entities to include teams, departments, or systems, in the context of AI adoption. Analyze how AI affects intra- and inter-organizational relationships, including collaboration, communication, and decision-making processes. *Examines connections between indiviuals and groups*.
 
-- **Group:** Explores the impact of AI on team structures and dynamics. Considers resistance, acceptance, and empowerment factors that influence team interactions through examining collective dynamics and collaborations that occur across larger organizational or network structures.
+- **Group:** Explores the impact of AI on team structures and dynamics. Considers resistance, acceptance, and empowerment factors that influence team interactions through examining collective dynamics and collaborations that occur across larger organizational or network structures. *Examines community and inter-community relationships*.
 
-### 4. Conceptual Dimension
+#### 4. Conceptual Dimension
 
 The Conceptual dimension defines the level of abstraction when considering the implication of AI capabilities. This dimension focuses on reconciling theoretical, applied, and content-related aspects of AI adoption.
 
@@ -66,14 +70,14 @@ The Conceptual dimension defines the level of abstraction when considering the i
 
 - **Applied:** Focuses on the practical application and implementation of theoretical concepts in real-world scenarios. Identifies best practices and case studies that illustrate successful AI integration. Develops guidelines and toolkits to assist organizations in practical application of AI strategies. *Involves inductive thinkng*.
 
-- **Content:** Pertains to the specific knowledge, data, and information that drive AI development and utilization. Geneartes specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and contexts of various sectors. *Involves abductive thinking*.
+- **Content:** Pertains to the specific data, knowledge, and information that drive AI use case development and utilization. Geneartes specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and constraints of specific AI-enabled capabilities. *Involves abductive thinking*.
 
 ### Implementation Approaches (TO-DO)
 
 Effective implementation of the TSRCT framework involves customization to align with specific organizational needs. This strategy emphasizes the importance of cross-functional teams to drive AI initiatives, continuous learning through feedback loops, and establishing clear metrics for monitoring and evaluation. By iteratively refining AI strategies, organizations can realize greater value from AI investments.
 
-The framework can be applied using varied approaches, for example:
-* Developing bespoke lines of inquiry using unique combinations of elements (illustrated later)
+The framework can be applied under a variety of scenarios, including (but not limited to):
+* Developing bespoke lines of inquiry using unique combinations of elements (illustrated as a case study)
 * Investigating the interconnections within dimensions (e.g., Human-Process-Technology relationships within the Resource dimension)
 * Defining and addressing organizational outcomes around AI adoption at the appropriate level of detail and abstraction
 
@@ -114,6 +118,6 @@ This section includes additional data, visual aids, and detailed explanations to
 
 ### Contact Information (TO-DO)
 
-For further inquiries or discussions regarding the TSRCT framework, contact details of the authors and contributing organizations are provided here.
+For further inquiries or discussions regarding the TSRCT framework contact @alexwalterhiggins.
 
 ---
