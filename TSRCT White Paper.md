@@ -6,11 +6,11 @@
 ---
 ### Executive Summary
 
-This white paper is a living document introducing the Theoretic System Reasoning Conceptual Toolkit (TSRCT), a comprehensive framework designed to guide organizations through the complexities of AI adoption. By addressing four critical dimensions (Contextual, Resource, Relational, and Conceptual) TSRCT provides a holistic approach to integrating AI technologies effectively. The framework aims to streamline strategic alignment, optimize resources, enhance relational dynamics, and reconcile diverse theoretical and practical aspects of AI adoption. TSRCT empowers organizations to navigate the nuanced challenges of evolving AI paradigms, ultimately enhancing competitiveness and fostering innovation.
+This white paper is a living document detailing the Theoretic System Reasoning Conceptual Toolkit (TSRCT), a comprehensive framework designed to guide organizations through the complexities of AI adoption. By addressing four critical dimensions (Contextual, Resource, Relational, and Conceptual) TSRCT provides a holistic approach to integrating AI technologies effectively. The framework aims to streamline strategic alignment, optimize resources, enhance relational dynamics, and reconcile diverse theoretical and practical aspects of AI adoption. TSRCT empowers organizations to navigate the nuanced challenges of evolving AI paradigms, ultimately enhancing competitiveness and fostering innovation.
 
 ### Introduction
 
-Rapid evolutions in artificial intelligence capabilites (e.g., classical deep learning to foundation and frontier models) have transformed industries, offering unprecedented opportunities for innovation. However, integrating AI into existing organizational structures presents significant challenges, from sociotechnical hurdles to strategic misalignments. This white paper outlines the TSRCT framework, developed to facilitate AI integration. By exploring the context-specific requirements and dynamics of AI adoption, TSRCT serves as a vital tool for organizations looking to leverage AI's transformative potential while maintaining operational coherence and vision alignment.
+Rapid evolutions in artificial intelligence capabilities (e.g., classical deep learning to foundation and frontier models) have transformed industries, offering unprecedented opportunities for innovation. However, integrating AI into existing organizational structures presents significant challenges, from sociotechnical hurdles to strategic misalignments. This white paper outlines the TSRCT framework, developed to facilitate AI integration. By exploring the context-specific requirements and dynamics of AI adoption, TSRCT serves as a vital tool for organizations looking to leverage AI's transformative potential while maintaining operational coherence and vision alignment.
 
 ### TSRCT Framework Overview
 
@@ -20,7 +20,7 @@ Each dimension is designed to be 'conceptually orthogonal' to address the unique
 
 ![Diagram](media/TSRCT_diagram.png)
 
-The 4 TSRCT dimensions contain 3 distinct elements, each designed to address a core consideration of the given dimension. Elements represent the most granular, distinct considerations of the framework. They are designed to be used individually, in tandem, or in the aggregate based on an organization's specific AI-related objectives (i.e., elements may be consolidated or ignored as necessary). The following diagram represents TSRCT's elements within their respective dimensions:
+The 4 TSRCT dimensions each contain 3 distinct elements designed to address a core consideration of a given dimension. Elements represent the most granular, distinct considerations of the framework. They are designed to be used individually, in tandem, or in the aggregate based on an organization's specific AI-related objectives (i.e., elements may be consolidated or ignored as necessary). The following diagram represents TSRCT's elements within their respective dimensions:
 
 ![Elements](media/TSRCT_elements.png)
 
@@ -32,7 +32,7 @@ The Contextual dimension frames the line of inquiry by specifying the domain of 
 
 - **Strategic:** Focuses on the overarching goals and motivations behind adopting AI and driving organizational change. Defines the strategic objectives of AI adoption and how they align with the organization's overall mission and goals. Considers implications on competitive advantage, positioning/adoption, and long-term vision. *Answers why*.
 
-- **Operational:** Methods and apraoches to examine the operational changes needed to support AI implementation, including infrastructure, workflows, and process integration. Evaluates existing operations to be optimized or transformed through AI. *Answers how*.
+- **Operational:** Methods and approaches to examine the operational changes needed to support AI implementation, including infrastructure, workflows, and process integration. Evaluates existing operations to be optimized or transformed through AI. *Answers how*.
 
 - **Technical:** Considers the specific technologies and tools that are being adopted or considered for adoption. Outlines the technical requirements and competencies needed for AI integration. Address issues like data management, algorithm selection, and technology stack compatibility for a specific AI use case. *Answers what*.
 
@@ -44,19 +44,19 @@ The Resource dimension identifies the target objects and systems related to holi
 
 - **Human:** Involves the workforce, including skills, roles, and the human elements involved in AI adoption. Assess the skill sets required for AI deployment, including hiring needs, training programs, and change management efforts to build a workforce capable of leveraging AI technologies. *Addresses people*.
 
-- **Proccess:** Encompasses the procedures and workflows that are being transformed or enhanced through AI. Leverages methodologies and processes for AI project management, including agile practices, feedback loops, and iteration strategies that facilitate smooth AI integration. *Addresses organizational processes*.
+- **Process:** Encompasses the procedures and workflows that are being transformed or enhanced through AI. Leverages methodologies and processes for AI project management, including agile practices, feedback loops, and iteration strategies that facilitate smooth AI integration. *Addresses organizational processes*.
 
 - **System:** Refers to the technological infrastructure and systems that support AI implementation. Considers the organization’s broader system, including logistical resources, IT infrastructure, and regulatory considerations. Identifies hardware and software system requirements to support AI initiatives sustainably. *Addresses technological systems*.
 
 #### 3. Relational Dimension
 
-The Relational dimension articulates dynamics of AI adoption at individual- and community-level, including their interconnections. This dimension involves analyzing these dynamics of in terms of entities, relationships, and groups within and outside the organization.
+The Relational dimension articulates dynamics of AI adoption at individual- and community-level, including their interconnections. This dimension involves analyzing these dynamics in terms of entities, relationships, and groups within and outside the organization.
 
 **Relational Elements:**
 
 - **Entity:** Focuses on the individual units or components within the organization that interact with AI initiatives. Evaluates the roles and responsibilities of various stakeholders involved in AI adoption, examining how to transform these roles with AI capabilities. *Examines components at the individual-level*.
 
-- **Relation:** Explores the interactions and connections between entities to include teams, departments, or systems, in the context of AI adoption. Analyze how AI affects intra- and inter-organizational relationships, including collaboration, communication, and decision-making processes. *Examines connections between indiviuals and groups*.
+- **Relation:** Explores the interactions and connections between entities to include teams, departments, or systems, in the context of AI adoption. Analyze how AI affects intra- and inter-organizational relationships, including collaboration, communication, and decision-making processes. *Examines connections between individuals and groups*.
 
 - **Group:** Explores the impact of AI on team structures and dynamics. Considers resistance, acceptance, and empowerment factors that influence team interactions through examining collective dynamics and collaborations that occur across larger organizational or network structures. *Examines community and inter-community relationships*.
 
@@ -68,9 +68,9 @@ The Conceptual dimension defines the level of abstraction when considering the i
 
 - **Theoretical:** Concerns the underlying theories, models, and frameworks that inform the approach to AI adoption and organizational change. Establishes a theoretical foundation that supports understanding the implications of AI technologies, including logistical considerations, governance frameworks, and societal impact. *Involves deductive thinking*.
 
-- **Applied:** Focuses on the practical application and implementation of theoretical concepts in real-world scenarios. Identifies best practices and case studies that illustrate successful AI integration. Develops guidelines and toolkits to assist organizations in practical application of AI objectives given emergent trends and capabilities. *Involves inductive thinkng*.
+- **Applied:** Focuses on the practical application and implementation of theoretical concepts in real-world scenarios. Identifies best practices and case studies that illustrate successful AI integration. Develops guidelines and toolkits to assist organizations in practical application of AI objectives given emergent trends and capabilities. *Involves inductive thinking*.
 
-- **Content:** Pertains to the specific data, knowledge, and information that drive AI use case development and utilization. Geneartes specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and constraints of specific AI-enabled capabilities. *Involves abductive thinking*.
+- **Content:** Pertains to the specific data, knowledge, and information that drive AI use case development and utilization. Generates specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and constraints of specific AI-enabled capabilities. *Involves abductive thinking*.
 
 ### Implementation Approaches 🚧
 
@@ -81,17 +81,17 @@ The framework can be applied under a variety of scenarios, including (but not li
 * Investigating the interconnections within dimensions (e.g., Human-Process-Technology relationships within the Resource dimension)
 * Defining and addressing organizational outcomes around AI adoption at the appropriate level of detail and abstraction
 
-TSRCT serves as a means (rather than singular end-state) to articulate organizational outcomes, approaches, and requirements for AI adoption. As such, the framework's dimensions/elements are designed to function as optional considerations to be reconsiled (or even ignored) as appropriate for a use case or capability. How an organization chooses to define and interpret the specific elements shapes TSRCT's implementation approaches.
+TSRCT serves as a means (rather than singular end-state) to articulate organizational outcomes, approaches, and requirements for AI adoption. As such, the framework's dimensions/elements are designed to function as optional considerations to be reconciled (or even ignored) as appropriate for a use case or capability. How an organization chooses to define and interpret the specific elements shapes TSRCT's implementation approaches.
 
 Shown below, the framework elements can be organized into a matrix to identify areas of interest to begin considering organizational goals for utilizing TSRCT:
 
 ![Matrix](media/TSRCT_matrix.png)
 
-### Case Study: Example Lines of Iniqury 🚧
+### Case Study: Example Lines of Inquiry 🚧
 
-To illustrate the framework's impact, this section presents a case study in applying TSRCT elements. This example provide practical insights into overcoming common AI adoption challenges and highlight measurable outcomes achieved through strategic integration. The goal of this exercize is to develop bespoke lines of inquiry from unique groupings of framework elements to articualate the relevance of AI to organizatonal change.
+To illustrate the framework's impact, this section presents a case study in applying TSRCT elements. This example provide practical insights into overcoming common AI adoption challenges and highlight measurable outcomes achieved through strategic integration. The goal of this exercise is to develop bespoke lines of inquiry from unique groupings of framework elements to articulate the relevance of AI to organizational change.
 
-In the absract sense, the dimensions and elements are grouped and defined by the illustration below. This provides a formula for generating lines of inquiry based on the specific status, objectives, and appropriate level of abstraction.
+The use case considers dimensions and elements grouped and defined by the illustration below. This provides a formula for generating lines of inquiry based on the specific status, objectives, and appropriate level of abstraction.
 
 ![Inquiry](media/TSRCT_inquiry.png)
 
@@ -100,9 +100,9 @@ For the purposes of the case study, we identify a line of inquiry with the objec
 ![Example](media/TSRCT_inquiry_ex.png)
 
 Utilizing the above element definitions, the flowchart assists in developing the following example lines of inquiry:
-* Why does human captial matter on an individual basis when thinking deductively (i.e. programmatically)?
-* Why (and to what extent) should we invest in technical infrastructure to keep pace with relevent emergent AI trends?
-* How do we analyze interconnected processes in an applied/inductive (i.e. probabalistic) capacity?
+* Why does human capital matter on an individual basis when thinking deductively (i.e. programmatically)?
+* Why (and to what extent) should we invest in technical infrastructure to keep pace with relevant emergent AI trends?
+* How do we analyze interconnected processes in an applied/inductive (i.e. probabilistic) capacity?
 * How are teams collaborating and interfacing with AI technologies? How can this be reliably monitored and secured?
 * What are necessary processes to ensure transparency and auditability of a given collection of AI capabilities?
 * What are the technological decision points that enable abductive (i.e. heuristic) understanding around a capability?
