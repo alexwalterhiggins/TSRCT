@@ -8,25 +8,25 @@
 
 This white paper is a living document detailing the Theoretic System Reasoning Conceptual Toolkit (TSRCT), a comprehensive framework designed to guide organizations through the complexities of AI adoption. By addressing four critical dimensions (Contextual, Resource, Relational, and Conceptual) TSRCT provides a holistic approach to integrating AI technologies effectively. The framework aims to streamline strategic alignment, optimize resources, enhance relational dynamics, and reconcile diverse theoretical and practical aspects of AI adoption. TSRCT empowers organizations to navigate the nuanced challenges of evolving AI paradigms, ultimately enhancing competitiveness and fostering innovation.
 
-### Introduction
+### Purpose
 
-Rapid evolutions in artificial intelligence capabilities (e.g., classical deep learning to foundation and frontier models) have transformed industries, offering unprecedented opportunities for innovation. However, integrating AI into existing organizational structures presents significant challenges, from sociotechnical hurdles to strategic misalignments. This white paper outlines the TSRCT framework, developed to facilitate AI integration. By exploring the context-specific requirements and dynamics of AI adoption, TSRCT serves as a vital tool for organizations looking to leverage AI's transformative potential while maintaining operational coherence and vision alignment.
+Rapid evolutions in artificial intelligence capabilities (e.g., from classical deep learning to foundation and frontier models) continue to transform organizational operations, offering unprecedented opportunities for innovation. However, integrating AI into existing organizational structures presents significant challenges, from sociotechnical hurdles to strategic misalignments. This white paper outlines the TSRCT framework, developed to facilitate AI integration. By exploring the context-specific requirements and dynamics of AI adoption, TSRCT serves as a mechanism to leverage AI's transformative potential while maintaining operational coherence and vision alignment.
 
 ### TSRCT Framework Overview
 
-The TSRCT framework establishes a structured pathway for organizational change in the face of AI integration. It is constructed around four interdependent dimensions: Contextual, Resource, Relational, and Conceptual. Each dimension consists of specific elements that address strategic, operational, technical, human, procedural, systemic, inter-entity relations, and content-related aspects of AI incorporation. This holistic approach ensures that every facet of organizational transformation is considered, facilitating a comprehensive strategy for successful AI deployment.
+The TSRCT framework establishes a structured pathway for organizational change in the face of AI integration. It is constructed around four interdependent dimensions: Contextual, Resource, Relational, and Conceptual. Each dimension consists of specific elements that address strategic, operational, technical, human, procedural, systemic, inter-entity relations, and content-related aspects of AI incorporation. This holistic approach enables a rigorous examination of the factors driving organizational transformation, facilitating a comprehensive strategy for successful AI deployment and adoption.
 
-Each dimension is designed to be 'conceptually orthogonal' to address the unique, yet interconnected elements within. The framework is modular at its core, intended to guide consulting and inquiry (rather than a "one size fits all" solution for AI adoption). Illustrated below, the framework can be represented as a fractal hypercube (i.e. tesseract) with the dimensions forming the basis for this representation:
+Each of the framework's 4 dimensions are designed to be 'conceptually orthogonal' to address the unique, yet interconnected elements within. The framework is modular at its core, intended to guide consulting and inquiry (rather than a "one size fits all" solution for AI adoption). Illustrated below, the framework can be represented as a fractal hypercube (or tesseract) with its dimensions forming the basis for this representation:
 
 ![Diagram](media/TSRCT_diagram.png)
 
-The 4 TSRCT dimensions each contain 3 distinct elements designed to address a core consideration of a given dimension. Elements represent the most granular, distinct considerations of the framework. They are designed to be used individually, in tandem, or in the aggregate based on an organization's specific AI-related objectives (i.e., elements may be consolidated or ignored as necessary). The following diagram represents TSRCT's elements within their respective dimensions:
+The 4 TSRCT dimensions each contain 3 distinct elements designed to address a core consideration of a given dimension. Elements represent the most granular, distinct considerations of the framework, and are defined based on an organization's bespoke objectives and outcomes. These elements are designed to be used individually, in tandem, or in the aggregate based on an organization's specific AI-related objectives (i.e., elements may be consolidated or ignored as necessary). The following diagram represents TSRCT's elements within their respective dimensions:
 
 ![Elements](media/TSRCT_elements.png)
 
 #### 1. Contextual Dimension
 
-The Contextual dimension frames the line of inquiry by specifying the domain of interest when addressing challenges around AI adoption and innovation. This dimension explores the strategic, operational, and technical questions organizations face during AI adoption, focusing on aligning AI initiatives within the broader organizational context.
+The *Contextual* dimension frames the line of inquiry by specifying the domain of interest when addressing challenges around AI adoption and innovation. This dimension explores the strategic, operational, and technical questions organizations face during AI adoption, focusing on aligning AI initiatives within the broader organizational context.
 
 **Contextual Elements:**
 
@@ -38,7 +38,7 @@ The Contextual dimension frames the line of inquiry by specifying the domain of 
 
 #### 2. Resource Dimension
 
-The Resource dimension identifies the target objects and systems related to holistic AI innovation. This dimension emphasizes the human, procedural, and technological resources necessary for AI adoption.
+The *Resource* dimension identifies the target objects and systems related to holistic AI innovation. This dimension emphasizes the human, procedural, and technological resources necessary for AI adoption.
 
 **Resource Elements:**
 
@@ -50,7 +50,7 @@ The Resource dimension identifies the target objects and systems related to holi
 
 #### 3. Relational Dimension
 
-The Relational dimension articulates dynamics of AI adoption at individual- and community-level, including their interconnections. This dimension involves analyzing these dynamics in terms of entities, relationships, and groups within and outside the organization.
+The *Relational* dimension articulates dynamics of AI adoption at individual- and community-level, including their interconnections. This dimension involves analyzing these dynamics in terms of entities, relationships, and groups within and outside the organization.
 
 **Relational Elements:**
 
@@ -62,15 +62,15 @@ The Relational dimension articulates dynamics of AI adoption at individual- and 
 
 #### 4. Conceptual Dimension
 
-The Conceptual dimension defines the level of abstraction when considering the implication of AI capabilities. This dimension focuses on reconciling theoretical, applied, and content-related aspects of AI adoption.
+The *Conceptual* dimension defines the level of abstraction when considering the implication of AI capabilities. This dimension focuses on reconciling theoretical, applied, and content-related aspects of AI adoption.
 
 **Conceptual Elements:**
 
-- **Theoretical:** Concerns the underlying theories, models, and frameworks that inform the approach to AI adoption and organizational change. Establishes a theoretical foundation that supports understanding the implications of AI technologies, including logistical considerations, governance frameworks, and societal impact. *Involves deductive thinking*.
+- **Theoretical:** Concerns the underlying theories, models, and frameworks that inform the approach to AI adoption and organizational change. Establishes a theoretical foundation that supports understanding the implications of AI technologies, including logistical considerations, governance frameworks, and societal impact. *Applies deductive thinking*.
 
-- **Applied:** Focuses on the practical application and implementation of theoretical concepts in real-world scenarios. Identifies best practices and case studies that illustrate successful AI integration. Develops guidelines and toolkits to assist organizations in practical application of AI objectives given emergent trends and capabilities. *Involves inductive thinking*.
+- **Applied:** Focuses on the practical application and implementation of theoretical concepts in real-world scenarios. Identifies best practices and case studies that illustrate successful AI integration. Develops guidelines and toolkits to assist organizations in practical application of AI objectives given emergent trends and capabilities. *Applies inductive thinking*.
 
-- **Content:** Pertains to the specific data, knowledge, and information that drive AI use case development and utilization. Generates specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and constraints of specific AI-enabled capabilities. *Involves abductive thinking*.
+- **Content:** Pertains to the specific data, knowledge, and information that drive AI use case development and utilization. Generates specific insights that address mission-specific challenges and opportunities of AI adoption, recognizing the unique needs and constraints of specific AI-enabled capabilities. *Applies abductive thinking*.
 
 ### Implementation Approaches 🚧
 
@@ -115,6 +115,7 @@ To summarize, the TSRCT framework offers a pathway for organizations to navigate
 
 ### Resources 🚧
 
+The following resources are offered to supplement implemenetation of the TSRCT framework:
 * [The Institutional Levels of War](https://thestrategybridge.org/the-bridge/2016/5/5/the-institutional-level-of-war)
 * [The Golden Circle](https://simonsinek.com/golden-circle/)
 * [People, Process, Technology](https://www.smartsheet.com/content/people-process-technology)
@@ -123,10 +124,10 @@ To summarize, the TSRCT framework offers a pathway for organizations to navigate
 
 ### Appendices 🚧
 
-(TO-DO) This section will include additional information, templates, and workflows to support applications of the TSRCT framework. A glossary of key terms will also be provided to clarify technical jargon and concepts.
+(TO-DO: This section will include additional information, templates, and workflows to support applications of the TSRCT framework. A glossary of key terms will also be provided to clarify technical jargon and concepts.)
 
 ### Contact Information 🚧
 
-For further inquiries or discussions regarding the TSRCT framework contact @alexwalterhiggins.
+For further inquiries or discussions regarding the TSRCT framework contact [@alexwalterhiggins](https://www.linkedin.com/in/alexwalterhiggins).
 
 ---
